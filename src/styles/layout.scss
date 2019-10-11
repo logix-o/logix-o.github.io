@@ -6,6 +6,25 @@
   bottom: 0;
 }
 
+%layout_absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+%layout_absolute-column-center {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+%layout_absolute-row-center {
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
 %layout_inline-block {
   display: inline-block;
 }

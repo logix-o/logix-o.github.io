@@ -16,3 +16,8 @@ _deploy without hash route, [reference](https://github.com/rafrex/spa-github-pag
 ## Recommand
 
 1. consider using cdn or other cloud server(like google, qiniu) to maintain **media source** like image, article, audio, video...
+
+## Reference
+
+1. [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+2. [redux-hot-reload](https://redux.js.org/recipes/configuring-your-store#hot-reloading)
